@@ -1,1 +1,3 @@
-page{background:#fff}
+page {
+  background: #fff;
+}
